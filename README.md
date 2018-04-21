@@ -1,6 +1,8 @@
 # B10fip-reliever
 #Fielding Independent Pitching by Class (Big Ten Conference) in 2017. Walks and Strikeouts part of the analysis.
 
+B10fip <- read.csv("Big Ten FIP relievers.csv")
+
 library(ggpubr)
 library(ggsci)
 
